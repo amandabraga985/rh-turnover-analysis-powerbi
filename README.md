@@ -1,5 +1,7 @@
 # Dashboard de Análise de Turnover de RH
 
+![Dashboard RH](Dashboard RH.png)
+
 ## Objetivo
 
 Este projeto tem como objetivo analisar os fatores relacionados ao desligamento de funcionários utilizando SQL, Power BI e DAX.
