@@ -1,6 +1,6 @@
 # Dashboard de Análise de Turnover de RH
 
-![Dashboard RH](dashboard-rh.png)
+![Dashboard RH](Dashboard-rh.png)
 
 ## Objetivo
 
