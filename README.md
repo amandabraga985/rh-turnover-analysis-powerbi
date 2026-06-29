@@ -1,7 +1,5 @@
 # Dashboard de Análise de Turnover de RH
 
-# Dashboard de Análise de Turnover de RH
-
 Projeto desenvolvido para analisar os fatores relacionados ao desligamento de funcionários utilizando **SQL, Power BI e DAX**.
 
 ![Dashboard RH](dashboard-RH.png)
